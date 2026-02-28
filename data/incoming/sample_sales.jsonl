@@ -1,0 +1,10 @@
+{"order_id": 1001, "customer_name": "Alice Johnson", "product": "Widget A", "quantity": 5, "unit_price": 29.99, "order_date": "2026-02-25", "region": "us-east"}
+{"order_id": 1002, "customer_name": "Bob Smith", "product": "Widget B", "quantity": 2, "unit_price": 49.99, "order_date": "2026-02-25", "region": "us-west"}
+{"order_id": 1003, "customer_name": "Carol White", "product": "Widget A", "quantity": 10, "unit_price": 29.99, "order_date": "2026-02-26", "region": "eu-west"}
+{"order_id": 1004, "customer_name": "Dave Brown", "product": "Widget C", "quantity": 1, "unit_price": 99.99, "order_date": "2026-02-26", "region": "us-east"}
+{"order_id": 1005, "customer_name": "Eve Davis", "product": "Widget B", "quantity": 3, "unit_price": 49.99, "order_date": "2026-02-26", "region": "ap-south"}
+{"order_id": 1006, "customer_name": "Frank Miller", "product": "Widget A", "quantity": 7, "unit_price": 29.99, "order_date": "2026-02-27", "region": "us-west"}
+{"order_id": 1007, "customer_name": "Grace Lee", "product": "Widget D", "quantity": 2, "unit_price": 149.99, "order_date": "2026-02-27", "region": "eu-west"}
+{"order_id": 1008, "customer_name": "Hank Wilson", "product": "Widget C", "quantity": 4, "unit_price": 99.99, "order_date": "2026-02-27", "region": "us-east"}
+{"order_id": 1009, "customer_name": "Ivy Chen", "product": "Widget B", "quantity": 6, "unit_price": 49.99, "order_date": "2026-02-28", "region": "ap-south"}
+{"order_id": 1010, "customer_name": "Jack Taylor", "product": "Widget A", "quantity": 1, "unit_price": 29.99, "order_date": "2026-02-28", "region": "us-east"}

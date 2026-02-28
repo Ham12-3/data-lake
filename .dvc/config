@@ -1,0 +1,5 @@
+[core]
+    remote = s3remote
+['remote "s3remote"']
+    url = s3://my-data-lake-bucket/dvc-store
+    region = us-east-1

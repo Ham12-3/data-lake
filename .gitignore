@@ -1,0 +1,31 @@
+# DVC tracked data
+/data/staged/
+*.dvc.lock
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.env.*
+.venv/
+
+# Terraform
+infrastructure/.terraform/
+infrastructure/.terraform.lock.hcl
+infrastructure/terraform.tfstate
+infrastructure/terraform.tfstate.backup
+*.tfvars
+*.tfvars.json
+
+# AWS
+.aws/
+
+# Deploy scripts (contain account-specific values)
+deploy.bat
+deploy.sh
+deploy.ps1
